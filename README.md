@@ -12,7 +12,9 @@
 <td><img src="https://user-images.githubusercontent.com/89185976/130318679-d387cd00-d1de-4bb5-8292-7620dd86af81.jpeg" height="600" width="300"></td>
 <td><img src="https://user-images.githubusercontent.com/89185976/130318682-61d7862c-2b92-4ae3-9277-afebccd0318a.jpeg" height="600" width="300"></td>
 </tr>
-
+  
+<tr>
 <img src="https://user-images.githubusercontent.com/89185976/130318683-1998f448-10ac-4f51-9b87-cb2fa121a939.jpeg" height="600" width="300">
-
+ </tr>
+  
   </table>
